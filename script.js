@@ -28,10 +28,3 @@ const SetClock = () => {
 
 SetClock();
 setInterval(SetClock, 1000);
-
-console.log(new Date)
-
-//get the time
-//set the time for hours, min, sec
-// depending on the time from 1-60 set the rotation of each 
-// element based on the number taken in.
